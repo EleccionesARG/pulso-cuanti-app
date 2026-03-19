@@ -1,0 +1,36 @@
+{
+  "A": [
+    "SEXO",
+    "EDAD_A",
+    "NED2",
+    "nse_sim",
+    "REGION",
+    "AREA",
+    "ESTRATO",
+    "c_medica",
+    "estado",
+    "SEXO_EDAD",
+    "REGION_NSE",
+    "EDAD_NSE",
+    "OLEADA_NUM"
+  ],
+  "B": [
+    "SEXO",
+    "EDAD_A",
+    "NED2",
+    "nse_sim",
+    "REGION",
+    "AREA",
+    "ESTRATO",
+    "c_medica",
+    "estado",
+    "GRALES23",
+    "BALLO23",
+    "RESP",
+    "ECONOMIA",
+    "SEXO_EDAD",
+    "REGION_NSE",
+    "EDAD_NSE",
+    "OLEADA_NUM"
+  ]
+}
