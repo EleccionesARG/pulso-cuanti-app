@@ -1,0 +1,132 @@
+{
+  "GESNAC": {
+    "accuracy": 0.6538276360134809,
+    "f1_macro": 0.5460060222366199,
+    "f1_weighted": 0.6347260386139069,
+    "log_loss": 0.8102169163352384,
+    "n_samples": 10385,
+    "n_classes": 5,
+    "feat": "B",
+    "algo": "rf"
+  },
+  "MILEI2": {
+    "accuracy": 0.8723158401540684,
+    "f1_macro": 0.5892806559619884,
+    "f1_weighted": 0.8609008191056511,
+    "log_loss": 0.41428778534262645,
+    "n_samples": 10385,
+    "n_classes": 3,
+    "feat": "B",
+    "algo": "lr"
+  },
+  "CFK2": {
+    "accuracy": 0.7442465093885412,
+    "f1_macro": 0.49815851756557333,
+    "f1_weighted": 0.7312213522753159,
+    "log_loss": 0.618235847561222,
+    "n_samples": 10385,
+    "n_classes": 3,
+    "feat": "B",
+    "algo": "lr"
+  },
+  "MM2": {
+    "accuracy": 0.726719336873462,
+    "f1_macro": 0.4955511933389916,
+    "f1_weighted": 0.7122449893282639,
+    "log_loss": 0.6624537462370201,
+    "n_samples": 7721,
+    "n_classes": 3,
+    "feat": "B",
+    "algo": "lr"
+  },
+  "PBULL2": {
+    "accuracy": 0.8107758062427147,
+    "f1_macro": 0.5800594594311036,
+    "f1_weighted": 0.797073047174101,
+    "log_loss": 0.5538565383295542,
+    "n_samples": 7721,
+    "n_classes": 3,
+    "feat": "B",
+    "algo": "lr"
+  },
+  "KICI2": {
+    "accuracy": 0.7523636834606916,
+    "f1_macro": 0.6088331075748533,
+    "f1_weighted": 0.7400720190713072,
+    "log_loss": 0.6639133274081309,
+    "n_samples": 7721,
+    "n_classes": 3,
+    "feat": "B",
+    "algo": "lr"
+  },
+  "ECOHOY": {
+    "accuracy": 0.6441020702936928,
+    "f1_macro": 0.3916755988642946,
+    "f1_weighted": 0.6104233977738606,
+    "log_loss": 0.8901723954809304,
+    "n_samples": 10385,
+    "n_classes": 5,
+    "feat": "B",
+    "algo": "rf"
+  },
+  "ECOPROSPE": {
+    "accuracy": 0.7589792970630718,
+    "f1_macro": 0.5425013078305044,
+    "f1_weighted": 0.7072367770966257,
+    "log_loss": 0.6849071312124563,
+    "n_samples": 10385,
+    "n_classes": 4,
+    "feat": "B",
+    "algo": "rf"
+  },
+  "RUMBO": {
+    "accuracy": 0.8059701492537313,
+    "f1_macro": 0.698554761431495,
+    "f1_weighted": 0.7938391945167774,
+    "log_loss": 0.5808651297293002,
+    "n_samples": 10385,
+    "n_classes": 3,
+    "feat": "B",
+    "algo": "lr"
+  },
+  "SENTIMIENTO": {
+    "accuracy": 0.5199807414540202,
+    "f1_macro": 0.2009029642479184,
+    "f1_weighted": 0.4378890292745602,
+    "log_loss": 1.3769558541600653,
+    "n_samples": 10385,
+    "n_classes": 8,
+    "feat": "B",
+    "algo": "rf"
+  },
+  "GESNAC_A": {
+    "accuracy": 0.5457871930669235,
+    "f1_macro": 0.35707511518957874,
+    "f1_weighted": 0.48578685125711674,
+    "log_loss": 1.086851764096328,
+    "n_samples": 10385,
+    "n_classes": 5,
+    "feat": "A",
+    "algo": "rf"
+  },
+  "MILEI2_A": {
+    "accuracy": 0.5852672123254694,
+    "f1_macro": 0.3924838759556342,
+    "f1_weighted": 0.5752928550625077,
+    "log_loss": 0.7515916913029701,
+    "n_samples": 10385,
+    "n_classes": 3,
+    "feat": "A",
+    "algo": "lr"
+  },
+  "RUMBO_A": {
+    "accuracy": 0.5246990852190659,
+    "f1_macro": 0.43106185373061395,
+    "f1_weighted": 0.5059143457426508,
+    "log_loss": 0.9290329041965473,
+    "n_samples": 10385,
+    "n_classes": 3,
+    "feat": "A",
+    "algo": "lr"
+  }
+}
