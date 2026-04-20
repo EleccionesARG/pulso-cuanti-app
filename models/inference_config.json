@@ -168,54 +168,5 @@
       7,
       8
     ]
-  },
-  "GESNAC_A": {
-    "target": "GESNAC",
-    "desc": "Gesti\u00f3n Milei (solo demo)",
-    "labels": {
-      "1": "Muy bien",
-      "2": "Bien",
-      "3": "Mal",
-      "4": "Muy mal",
-      "5": "NsNc"
-    },
-    "feat": "A",
-    "classes": [
-      1,
-      2,
-      3,
-      4,
-      5
-    ]
-  },
-  "MILEI2_A": {
-    "target": "MILEI2",
-    "desc": "Imagen Milei (solo demo)",
-    "labels": {
-      "1": "Positiva",
-      "2": "Negativa",
-      "3": "NsNc"
-    },
-    "feat": "A",
-    "classes": [
-      1,
-      2,
-      3
-    ]
-  },
-  "RUMBO_A": {
-    "target": "RUMBO",
-    "desc": "Rumbo gobierno (solo demo)",
-    "labels": {
-      "1": "Correcto",
-      "2": "Incorrecto",
-      "3": "NsNc"
-    },
-    "feat": "A",
-    "classes": [
-      1,
-      2,
-      3
-    ]
   }
 }
